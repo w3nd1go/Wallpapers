@@ -1,6 +1,3 @@
-w3nd1go
-
-
 How to get this in two piss-easy steps:
 
 1. If you don't have git installed, google for the instructions and follow them. There's tons of tutorials floating about.
